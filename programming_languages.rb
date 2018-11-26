@@ -11,3 +11,6 @@ languages.each do |syle, description|
     end
   end 
 end
+
+  new_hash
+end 

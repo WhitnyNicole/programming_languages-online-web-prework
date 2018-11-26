@@ -9,7 +9,7 @@ languages.each do |style, description|
       new_hash[lang] [:style] << style
     else
       new_hash[lang] = type
-      new_hash{lang] [:style] = [style]
+      new_hash[lang] [:style] = [style]
     end
   end 
 end
